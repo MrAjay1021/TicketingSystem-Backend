@@ -91,3 +91,7 @@ analyze performance metrics. The application consists of a React frontend and a 
 ### Analytics
 - Aggregated performance data
 
+## Demo Credentials
+
+- **username**: admin1
+- **Password**: qwer1234
