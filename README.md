@@ -55,7 +55,8 @@ analyze performance metrics. The application consists of a React frontend and a 
 - **GET /api/analytics/members** - Get members performance
 - **GET /api/analytics/teams** - Get team performance
 
-- ## Data Models
+ 
+ ## Data Models
 
 ### User
 - Authentication and profile information for customers, members, and admins
