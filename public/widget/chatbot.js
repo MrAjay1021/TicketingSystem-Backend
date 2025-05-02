@@ -1,6 +1,6 @@
 (function() {
   // Configuration
-  const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://ticketingsystem-backend.onrender.com';
+  const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://ticketingsystem-backend-amb8.onrender.com';
   const POLL_INTERVAL = 5000; // 5 seconds
   
   // Widget state
