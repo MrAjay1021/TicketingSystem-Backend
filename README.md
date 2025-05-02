@@ -16,19 +16,6 @@ analyze performance metrics. The application consists of a React frontend and a 
 - **JWT** - JSON Web Tokens for authentication
 - **bcrypt** - Password hashing
 
-- ## Project Structure
-
-- backend/
-├── config/            # Configuration files and database connection
-├── middleware/        # Express middleware functions
-├── models/            # MongoDB schema definitions
-├── routes/            # API routes and endpoints
-├── utils/             # Utility functions
-├── jobs/              # Scheduled background jobs
-├── public/            # Static assets (if any)
-├── index.js           # Application entry point
-├── package.json       # Dependencies and scripts
-└── .gitignore         # Git ignore configuration
 
 ## API Endpoints
 
